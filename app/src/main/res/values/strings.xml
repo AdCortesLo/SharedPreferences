@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string-array name="usuaris">
+        <item>Toñete</item>
+        <item>Usuario secreto</item>
+        <item>Persona 5</item>
+    </string-array>
+</resources>
